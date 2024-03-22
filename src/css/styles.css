@@ -74,13 +74,15 @@ div.sl-wrapper .sl-image img {
 div.sl-wrapper .sl-image .sl-caption {
   position: relative;
   max-width: 1112px;
-  background-color: #aa6a6a;
+  background-color: #6a7baa;
   text-align: center;
 }
 
 
 /* 2 task */
 .feedback-form {
+  padding-top: 30px;
+  padding-left: 30px;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
